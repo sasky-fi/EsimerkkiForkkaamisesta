@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtävä2", "tehtävä2.csproj", "{BD836ACE-3813-4D20-A9F7-5D76E7803DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä2testit", "..\Tettävä2testit\Tehtävä2testit.csproj", "{C42D2A83-3B05-4841-B6D8-BA2F48E84329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD836ACE-3813-4D20-A9F7-5D76E7803DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD836ACE-3813-4D20-A9F7-5D76E7803DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD836ACE-3813-4D20-A9F7-5D76E7803DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD836ACE-3813-4D20-A9F7-5D76E7803DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42D2A83-3B05-4841-B6D8-BA2F48E84329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42D2A83-3B05-4841-B6D8-BA2F48E84329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42D2A83-3B05-4841-B6D8-BA2F48E84329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42D2A83-3B05-4841-B6D8-BA2F48E84329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED047752-F709-4414-A794-8CA21B993E0B}
+	EndGlobalSection
+EndGlobal
