@@ -14,6 +14,7 @@ namespace tehtävä2
             Console.WriteLine("Tulostetaan raporttina allekain kaikki syötetyt luvut (\"L\") tai tulostetaan VAIN lukujen summa (\"S\")");
             Console.WriteLine("Valitse raporttityyppi(\"L\" tai \"S\"):");
             string vastaus = Console.ReadLine();
+            // Kysytään käyttäjältä raporttityyppi
             while(vastaus.ToLower() != "l" && vastaus.ToLower() != "s")
             { 
                 Console.WriteLine($"{vastaus} raporttityyppiä ei ole.");
