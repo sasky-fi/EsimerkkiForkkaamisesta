@@ -11,6 +11,8 @@ namespace tehtävä2
     {
         static void Main(string[] args)
         {
+
+            // Lisätään kommentti versionhallintaa varten
             Console.WriteLine("Tulostetaan raporttina allekain kaikki syötetyt luvut (\"L\") tai tulostetaan VAIN lukujen summa (\"S\")");
             Console.WriteLine("Valitse raporttityyppi(\"L\" tai \"S\"):");
             string vastaus = Console.ReadLine();
