@@ -17,6 +17,8 @@ namespace tehtävä2
             Console.WriteLine("Valitse raporttityyppi(\"L\" tai \"S\"):");
             string vastaus = Console.ReadLine();
             // Kysytään käyttäjältä raporttityyppi
+
+            //Kommentti jotta saadaan aikaa muutos
             while(vastaus.ToLower() != "l" && vastaus.ToLower() != "s")
             { 
                 Console.WriteLine($"{vastaus} raporttityyppiä ei ole.");
