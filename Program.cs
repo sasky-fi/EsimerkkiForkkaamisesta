@@ -23,6 +23,7 @@ namespace tehtävä2
                 Console.WriteLine("Valitse raporttityyppi(\"L\" tai \"S\"):");
                 vastaus = Console.ReadLine();
             }
+            //Pyydetään käyttäjää lisäämään numero listaan tai keskeyttämään
             Console.WriteLine("Syötä kokonaisluku lisättäväksi listaan tai \"K\" keskeytä");
             string luku = Console.ReadLine();
             int iluku;
